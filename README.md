@@ -8,11 +8,11 @@ All interns are required to complete assigned tasks and submit their work in a s
 
 ## Official Repository
 
-This is the official internship workspace of IPLAIRANI.
-
-All tasks, submissions, and evaluations conducted through this repository are part of the IPLAIRANI internship program.
-
-Any communication, guidance, or updates related to tasks will be considered valid only if shared through official IPLAIRANI channels.
+      This is the official internship workspace of IPLAIRANI.
+      
+      All tasks, submissions, and evaluations conducted through this repository are part of the IPLAIRANI internship program.
+      
+      Any communication, guidance, or updates related to tasks will be considered valid only if shared through official IPLAIRANI channels.
 
 ---
 
@@ -29,11 +29,11 @@ The purpose of this repository is to:
 
 ## Repository Structure
 
-tasks/  
-(Contains all assigned problem statements)
-
-submissions/  
-(Each intern must create their own folder here)
+      tasks/  
+      (Contains all assigned problem statements)
+      
+      submissions/  
+      (Each intern must create their own folder here)
 
 ---
 
