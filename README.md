@@ -61,7 +61,7 @@ The purpose of this repository is to:
 
 Create a folder using your name:
 
-      mkdir your_name
+      mkdir your_gmailname
 
 ---
 
@@ -139,7 +139,8 @@ Each submission must include:
 - A `README.md` inside your folder explaining:
   - What you built  
   - How to run it  
-  - Any assumptions  
+  - Any assumptions
+  - For more details refer TaskReadme
 
 ---
 
